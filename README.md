@@ -5,6 +5,7 @@ A app esta separada em 3 flavors:
   - Form: Mostra somente o ecrã de formulário;
   - Produto: Mostra os ecrãs de listagem de produto e detalhes;
 
+App pode ser executada normalmente via o Android Studio selecionando qualquer uma das buildVariants de debug;
 
 Listagem de produtos:
   - Ao abrir o ecrã de produtos será feito fetch dos produtos (pode continuar o fetch caso não tenha sido completado) e grava eles na base de dados;
